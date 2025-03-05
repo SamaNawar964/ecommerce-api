@@ -1,0 +1,74 @@
+[2025-03-05 20:49:58] INFO: 🚀 Running in development mode
+[2025-03-05 20:49:59] INFO: 🚀 Server is running on port 8000
+[2025-03-05 20:50:01] INFO: ✅ Database Connected Successfully
+[2025-03-05 20:53:05] INFO: 🚀 Running in development mode
+[2025-03-05 20:53:05] INFO: 🚀 Server is running on port 8000
+[2025-03-05 20:53:07] INFO: ✅ Database Connected Successfully
+[2025-03-05 20:54:18] INFO: 🚀 Running in development mode
+[2025-03-05 20:54:18] INFO: 🚀 Server is running on port 8000
+[2025-03-05 20:54:21] INFO: ✅ Database Connected Successfully
+[2025-03-05 20:54:53] INFO: 🚀 Running in development mode
+[2025-03-05 20:54:53] INFO: 🚀 Server is running on port 8000
+[2025-03-05 20:54:55] INFO: ✅ Database Connected Successfully
+[2025-03-05 20:56:40] INFO: 🚀 Running in development mode
+[2025-03-05 20:56:40] INFO: 🚀 Server is running on port 8000
+[2025-03-05 20:56:43] INFO: ✅ Database Connected Successfully
+[2025-03-05 20:59:25] INFO: 🚀 Running in development mode
+[2025-03-05 20:59:25] INFO: 🚀 Server is running on port 8000
+[2025-03-05 20:59:28] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:00:27] INFO: 🚀 Running in development mode
+[2025-03-05 21:00:27] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:00:30] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:01:36] INFO: 🚀 Running in development mode
+[2025-03-05 21:01:36] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:01:39] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:09:15] INFO: 🚀 Running in development mode
+[2025-03-05 21:09:15] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:09:20] INFO: 🚀 Running in development mode
+[2025-03-05 21:09:20] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:09:22] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:15:38] INFO: 🚀 Running in development mode
+[2025-03-05 21:15:38] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:15:40] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:16:51] INFO: 🚀 Running in development mode
+[2025-03-05 21:16:51] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:16:54] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:18:43] INFO: 🚀 Running in development mode
+[2025-03-05 21:18:43] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:18:45] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:19:06] INFO: 🚀 Running in development mode
+[2025-03-05 21:19:06] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:19:09] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:21:52] INFO: 🚀 Running in development mode
+[2025-03-05 21:21:52] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:21:54] INFO: 🚀 Running in development mode
+[2025-03-05 21:21:54] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:21:56] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:22:08] INFO: 🚀 Running in development mode
+[2025-03-05 21:22:08] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:22:11] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:24:35] INFO: 🚀 Running in development mode
+[2025-03-05 21:24:35] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:24:38] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:27:16] INFO: POST /api/v1/categories
+[2025-03-05 21:27:16] ERROR: ❌ Error: E11000 duplicate key error collection: ecommerce.categories index: name_1 dup key: { name: "Electronics" }
+[2025-03-05 21:29:22] INFO: 🚀 Running in development mode
+[2025-03-05 21:29:22] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:29:25] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:30:52] INFO: 🚀 Running in development mode
+[2025-03-05 21:30:52] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:30:55] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:32:16] INFO: POST /api/v1/categories
+[2025-03-05 21:34:04] INFO: 🚀 Running in development mode
+[2025-03-05 21:34:04] INFO: 🚀 Server is running on port 8000
+[2025-03-05 21:34:06] INFO: ✅ Database Connected Successfully
+[2025-03-05 21:37:15] INFO: POST /api/v1/categories
+[2025-03-05 21:38:01] INFO: POST /api/v1/categories
+[2025-03-05 21:38:27] INFO: POST /api/v1/categories
+[2025-03-05 21:38:52] INFO: POST /api/v1/categories
+[2025-03-05 21:39:20] INFO: POST /api/v1/categories
+[2025-03-05 21:40:09] INFO: GET /api/v1/categories
+[2025-03-05 21:41:51] INFO: GET /api/v1/categories/67c8a819f19fcd756d33ceb7
+[2025-03-05 21:43:17] INFO: PUT /api/v1/categories/67c8a819f19fcd756d33ceb7
+[2025-03-05 21:43:51] INFO: DELETE /api/v1/categories/67c8a819f19fcd756d33ceb7
+[2025-03-05 21:44:19] INFO: GET /api/v1/categories
